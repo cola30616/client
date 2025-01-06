@@ -7,4 +7,6 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  // tailwind css 優先
+  important : true
 }
